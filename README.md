@@ -53,7 +53,7 @@ Atualmente lidero squads focados em performance, experiência do usuário e entr
 ### 📫 Onde me encontrar:
 
 - 📍 Cuiabá, MT — Brasil
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelovasconcelos)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-s-0a2457293/)
 - 📧 marcelodafter@gmail.com
 
 ---
