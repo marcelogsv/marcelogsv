@@ -54,13 +54,7 @@ Atualmente lidero squads focados em performance, experiência do usuário e entr
 
 - 📍 Cuiabá, MT — Brasil
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelovasconcelos)
-- 📧 marcelov.dev@gmail.com
-
----
-
-### 🐍 Snake Game (opcional)
-
-![snake gif](https://github.com/marcelogsv/marcelogsv/blob/output/github-contribution-grid-snake.svg)
+- 📧 marcelodafter@gmail.com
 
 ---
 
