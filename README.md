@@ -41,15 +41,6 @@ Atualmente lidero squads focados em performance, experiência do usuário e entr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcelogsv&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogsv&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Onde me encontrar:
 
 - 📍 Cuiabá, MT — Brasil
